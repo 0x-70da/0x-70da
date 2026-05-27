@@ -1,6 +1,6 @@
 # Hey, I'm Mahmoud 👨‍💻
 
-Software engineer focused on building fast, scalable web products.  
+Full stack developer focused on building fast, scalable web products.  
 I work mainly with the **JavaScript / TypeScript** ecosystem — from clean UIs to solid backend APIs.
 
 > Currently open to **internships** and **interesting collaborations**.
@@ -10,7 +10,7 @@ I work mainly with the **JavaScript / TypeScript** ecosystem — from clean UIs 
 
 ## About
 
-- 🔭 Building: [Horus Shop](https://github.com/0x-70da/horus-shop) — a full-stack ecommerce project
+- 🔭 Building: [Horus Shop](https://github.com/0x-70da/horus-shop-v2) — a full-stack ecommerce project
 - 🌱 Leveling up: `TypeScript` · `Docker` · production-ready patterns
 - 🧠 I can use AI as a coding partner — context, instructions, MCP, external tools. Not just prompts.
 - ⚡ I care about: performance, clean architecture, feature-based structure, and UI that actually feels good
